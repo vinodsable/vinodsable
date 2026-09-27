@@ -31,7 +31,7 @@ I’m a Computer Science student passionate about building modern websites, lear
 
 ### 📫 Connect With Me
 
-- YouTube: https://www.youtube.com/@CodeWithVinod
+- 
 
 ---
 
